@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.jiufu.ProjectAudit</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0(20180330161000)</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>项目审核</string>
+				<string>ProjectAudit</string>
 			</dict>
 		</dict>
 	</array>
